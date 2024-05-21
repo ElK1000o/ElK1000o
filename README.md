@@ -1,5 +1,4 @@
 ## Sobre mí
-Estudiante de Data Science en la Universidad Mayor (Santiago, Chile).
 
 Soy estudiante de Data Science en la Universidad Mayor (Santiago, Chile), con experiencia en Python y R. Mi interés por el análisis de datos comenzó durante mis estudios en Sociología en la Universidad Alberto Hurtado.
 
