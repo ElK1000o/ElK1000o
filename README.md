@@ -10,6 +10,7 @@ Mi perfil incluye repositorios en Python y R que reflejan mi formación en este 
   - [Taller de Ciencia de Datos I](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-I "Taller de Ciencia de Datos I"): Análisis de datos e introducción a $LaTeX$ para informes.
   - [Programacion II](https://github.com/ElK1000o/Programacion-II "Programación II"): Trabajar en DataFrames haciendo uso de notebook y librerías.
   - [Programacion I](https://github.com/ElK1000o/Programacion-I "Programación I"): Proyectos y ejercicios introductorios a la programación en Python.
+  - [WebScraping](https://github.com/ElK1000o/WebScraping "WebScraping"): Proyecto autónomo de obtención de datos desde sitio de supermercado.
 
 <img src="https://github.com/ElK1000o/ElK1000o/assets/102204400/5ee3466c-bbb3-4828-8d07-b38bcd29b6f7" alt="R Logo" style="width:30px; height:30px">  R (Universidad Alberto Hurtado | Sociología)
   - [Examen Final](https://github.com/learn-R/examen-ElK1000o "Examen Final"): Examen Final Curso Análisis de Datos Estadísticos en R.
