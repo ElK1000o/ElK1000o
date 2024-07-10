@@ -14,7 +14,7 @@ Mi perfil incluye repositorios en Python y R que reflejan mi formación en este 
   - [Programacion II](https://github.com/ElK1000o/Programacion-II "Programación II"): Trabajar en DataFrames haciendo uso de notebook y librerías.
   - [Programacion I](https://github.com/ElK1000o/Programacion-I "Programación I"): Proyectos y ejercicios introductorios a la programación en Python.
 
-- **Proyectos autónomos***
+- **Proyectos autónomos**
 
   - [WebScraping](https://github.com/ElK1000o/WebScraping "WebScraping"): Proyecto autónomo de obtención de datos desde sitios web.
 
