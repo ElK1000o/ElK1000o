@@ -31,4 +31,4 @@ Mi perfil incluye repositorios en Python y R que reflejan mi formación en este 
 
 <img src="https://github.com/user-attachments/assets/48934368-3df6-44f7-b789-608b35c5b97c" alt="Correo" style="width:30px; height:30px">  [Correo](mailto:cam.rique.hor@gmail.com "Enviar Correo")
 
-<img src="https://github.com/user-attachments/assets/b41236b3-93f4-4331-a3ff-335c91bc71a1" alt="CV" style="width:35px; height:25px">  [CV](https://github.com/ElK1000o/CV "Camilo Riquelme | CV")
+<img src="https://github.com/user-attachments/assets/b41236b3-93f4-4331-a3ff-335c91bc71a1" alt="CV" style="width:40px; height:25px">  [CV](https://github.com/ElK1000o/CV "Camilo Riquelme | CV")
