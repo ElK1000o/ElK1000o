@@ -23,8 +23,15 @@ Mi perfil incluye repositorios en Python y R que reflejan mi formación en este 
   - [Guia Estadística](https://github.com/ElK1000o/Guia-4-Estadistica "Guia Estadística"): Apoyo para el análisis estadístico en R.
 
 ## Contacto
-<img src="https://github.com/user-attachments/assets/ce18c737-9067-4eb4-8901-3a97aa73c6ae" alt="LinkedIn Logo" style="width:30px; height:30px">  [LinkedIn](https://www.linkedin.com/in/camiloriquelmehorta "Camilo Riquelme | LinkedIn")
 
-<img src="https://github.com/user-attachments/assets/48934368-3df6-44f7-b789-608b35c5b97c" alt="Correo" style="width:30px; height:30px">  [Correo](mailto:cam.rique.hor@gmail.com "Enviar Correo")
-
-<img src="https://github.com/user-attachments/assets/b41236b3-93f4-4331-a3ff-335c91bc71a1" alt="CV" style="width:40px; height:25px">  [CV](https://github.com/ElK1000o/CV "Camilo Riquelme | CV")
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/camiloriquelmehorta" title="Camilo Riquelme | LinkedIn">
+    <img src="https://github.com/ElK1000o/ElK1000o/assets/102204400/dcfd276c-44c3-4b51-ab13-8a2b912edba3" alt="LinkedIn Logo" style="width:30px; height:30px;">
+  </a>
+  <a href="mailto:cam.rique.hor@gmail.com" title="Enviar Correo">
+    <img src="https://github.com/ElK1000o/ElK1000o/assets/102204400/11c42cfb-d69e-4ce8-a04f-71c8a73ef7b3" alt="Correo" style="width:30px; height:30px;">
+  </a>
+  <a href="https://github.com/ElK1000o/CV" title="Camilo Riquelme | CV">
+    <img src="https://github.com/ElK1000o/ElK1000o/assets/102204400/70114968-503b-4d78-aaa3-645f8748b3fb" alt="CV" style="width:35px; height:25px;">
+  </a>
+</div>
