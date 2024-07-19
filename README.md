@@ -19,11 +19,7 @@ Mi perfil incluye repositorios en Python y R que reflejan mi formación en este 
   - [WebScraping](https://github.com/ElK1000o/WebScraping "WebScraping"): Proyecto autónomo de obtención de datos desde sitios web.
 
 ### <img src="https://github.com/user-attachments/assets/99d6081a-1c8c-47d5-bc37-a050999c9c84" alt="R Logo" style="width:30px; height:30px">  R (Universidad Alberto Hurtado | Sociología)
-  - [Examen Final](https://github.com/learn-R/examen-ElK1000o "Examen Final"): Examen Final Curso Análisis de Datos Estadísticos en R.
-  - [Tarea 4](https://github.com/ElK1000o/Tarea-4 "Tarea 4"): Análisis estadístico y visualización de datos con modelos de regresión.
-  - [Tarea 3](https://github.com/ElK1000o/Tarea-3 "Tarea 3"): Proyecto utilizando estadística inferencial.
-  - [Tarea 2](https://github.com/ElK1000o/Tarea-2 "Tarea 2"): Primer trabajo investigativo con análisis univariado/bivariado.
-  - [Tarea 1](https://github.com/ElK1000o/Tarea-1 "Tarea 1"): Proyectos iniciales y exploración de datos.
+  - [Analisis de Datos Estadisticos en R](https://github.com/ElK1000o/CursoR-Completo "Curso R | UAH"): Curso Introducción al programa R para el análisis estadístico.
   - [Guia Estadística](https://github.com/ElK1000o/Guia-4-Estadistica "Guia Estadística"): Apoyo para el análisis estadístico en R.
 
 ## Contacto
