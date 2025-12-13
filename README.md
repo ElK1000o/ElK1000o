@@ -1,35 +1,67 @@
-## Sobre mí
+# Sobre mí
 
-Soy estudiante de Data Science en la Universidad Mayor (Santiago, Chile), con experiencia en Excel, Python, R y SQL. Mi interés por el análisis de datos comenzó durante mis estudios en Sociología en la Universidad Alberto Hurtado.
+Soy **Analista de Datos y Procesos** y estudiante de **Data Science** en la **Universidad Mayor** (Santiago, Chile).
 
-## Tecnologías
-Mi perfil incluye repositorios en Python y R que reflejan mi formación en este ámbito.
+Mi trabajo se centra en **ordenar, estandarizar y analizar información operativa** para mejorar la capacidad de medición y apoyar la toma de decisiones. Tengo experiencia trabajando con **Python, SQL, Excel y herramientas de visualización**, aplicadas tanto en contextos académicos como profesionales.
 
-### <img src="https://github.com/user-attachments/assets/6c3ed8d6-ce36-48c7-810a-c588f60b3a8f" alt="Python Logo" style="width:30px; height:30px">  Python
+Mi interés por el análisis de datos comenzó durante mis estudios en **Sociología** en la **Universidad Alberto Hurtado**, donde adquirí una base sólida en **metodologías de investigación y análisis estadístico**, lo que posteriormente me llevó a orientar mi formación hacia la ciencia de datos.
 
-- **Universidad Mayor | Data Science**
+---
 
-  - [Bases de Datos](https://github.com/ElK1000o/Bases-de-Datos "Bases de Datos"): Integración de Python y SQL.
-  - [Taller de Ciencia de Datos II](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-II "Taller de Ciencia de Datos II"): Proyecto de investigación y elaboración de informe en $LaTeX$.
-  - [Taller de Ciencia de Datos I](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-I "Taller de Ciencia de Datos I"): Análisis de datos e introducción a $LaTeX$ para informes.
-  - [Programacion II](https://github.com/ElK1000o/Programacion-II "Programación II"): Trabajar en DataFrames haciendo uso de notebook y librerías.
-  - [Programacion I](https://github.com/ElK1000o/Programacion-I "Programación I"): Proyectos y ejercicios introductorios a la programación en Python.
+## Tecnologías y áreas de trabajo
 
-- **Proyectos autónomos**
+Trabajo principalmente con repositorios académicos y proyectos prácticos que reflejan mi formación y aprendizaje continuo en análisis de datos, modelamiento y visualización.
 
-  - [WebScraping](https://github.com/ElK1000o/WebScraping "WebScraping"): Proyecto autónomo de obtención de datos desde sitios web.
+---
 
-### <img src="https://github.com/user-attachments/assets/90b27952-dcbb-4cce-b058-c89e9982ae6e" alt="R Logo" style="width:30px; height:30px">  R (Universidad Alberto Hurtado | Sociología)
-  - [Analisis de Datos Estadisticos en R](https://github.com/ElK1000o/CursoR-Completo "Curso R | UAH"): Curso Introducción al programa R para el análisis estadístico.
-  - [Guia Estadística](https://github.com/ElK1000o/Guia-4-Estadistica "Guia Estadística"): Apoyo para el análisis estadístico en R.
+### <img src="https://assets.camilorh.com/misc/Python.png" alt="Python Logo" style="width:30px; height:30px"> Python  
+**Universidad Mayor | Ciencia de Datos**
 
-## Contacto
+- [Bases de Datos](https://github.com/ElK1000o/Bases-de-Datos)  
+  Integración de Python y SQL para consulta, manejo y análisis de datos.
+
+- [Taller de Ciencia de Datos II](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-II)  
+  Proyecto académico de análisis de datos con énfasis en investigación y elaboración de informes en LaTeX.
+
+- [Taller de Ciencia de Datos I](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-I)  
+  Análisis exploratorio de datos e introducción a la documentación técnica en LaTeX.
+
+- [Programación II](https://github.com/ElK1000o/Programacion-II)  
+  Trabajo con DataFrames, notebooks y librerías para análisis y manipulación de datos.
+
+- [Programación I](https://github.com/ElK1000o/Programacion-I)  
+  Proyectos y ejercicios introductorios a la programación en Python.
+
+**Proyectos personales**
+
+- [Web Scraping](https://github.com/ElK1000o/WebScraping)  
+  Proyecto autónomo de extracción de datos desde sitios web utilizando Python, orientado a la obtención y estructuración de información para análisis posterior.
+
+---
+
+### <img src="https://assets.camilorh.com/misc/R.png" alt="R Logo" style="width:30px; height:30px"> R  
+**Universidad Alberto Hurtado | Sociología**
+
+- [Análisis de Datos Estadísticos en R](https://github.com/ElK1000o/CursoR-Completo)  
+  Curso introductorio al uso de R para análisis estadístico aplicado.
+
+- [Guía Estadística](https://github.com/ElK1000o/Guia-4-Estadistica)  
+  Material de apoyo para análisis estadístico y comprensión de métodos cuantitativos en R.
+
+---
+
+## Contacto y perfiles
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/camiloriquelmehorta" title="Camilo Riquelme | LinkedIn">
-    <img src="https://github.com/user-attachments/assets/8fbc2242-a5bc-4155-83b7-d41e564ab56e" alt="LinkedIn Logo" style="width:30px; height:30px;">
+    <img src="https://assets.camilorh.com/misc/LinkedInColor.png" alt="LinkedIn Logo" style="width:24px; height:24px;">
+    <span>LinkedIn</span>
   </a>
-  <a href="https://github.com/ElK1000o/CV" title="Camilo Riquelme | CV">
-    <img src="https://github.com/user-attachments/assets/a52b001e-93ef-4b7c-b4e0-d8c94fd8c118" alt="CV" style="width:35px; height:25px;">
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://ds.camilorh.com/" title="Portfolio profesional">
+    <img src="https://assets.camilorh.com/misc/crh-black-logo.png" alt="Portfolio" style="width:30px; height:30px;">
+    <span>Portfolio</span>
   </a>
 </div>
