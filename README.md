@@ -1,67 +1,156 @@
 # Sobre mí
 
-Soy **Analista de Datos y Procesos** y estudiante de **Data Science** en la **Universidad Mayor** (Santiago, Chile).
+Soy estudiante de **Data Science** en la **Universidad Mayor (Santiago, Chile)** y actualmente trabajo en proyectos de **análisis operacional, automatización y estructuración de procesos empresariales**.
 
-Mi trabajo se centra en **ordenar, estandarizar y analizar información operativa** para mejorar la capacidad de medición y apoyar la toma de decisiones. Tengo experiencia trabajando con **Python, SQL, Excel y herramientas de visualización**, aplicadas tanto en contextos académicos como profesionales.
+Me interesa comprender cómo funcionan los sistemas antes de analizarlos o automatizarlos. Disfruto organizando información dispersa, diseñando estructuras de datos y desarrollando herramientas que ayuden a transformar procesos complejos en información útil para la toma de decisiones.
 
-Mi interés por el análisis de datos comenzó durante mis estudios en **Sociología** en la **Universidad Alberto Hurtado**, donde adquirí una base sólida en **metodologías de investigación y análisis estadístico**, lo que posteriormente me llevó a orientar mi formación hacia la ciencia de datos.
+A lo largo de mi experiencia he participado en proyectos vinculados a **calidad, sostenibilidad, compras, inventarios, análisis financiero-operacional, automatización y visualización de datos**, utilizando herramientas como Python, R, SQL, AWS, QuickSight, Power BI, SAP MM, Excel y Power Automate.
 
----
-
-## Tecnologías y áreas de trabajo
-
-Trabajo principalmente con repositorios académicos y proyectos prácticos que reflejan mi formación y aprendizaje continuo en análisis de datos, modelamiento y visualización.
+Mi objetivo es seguir creciendo como profesional en Data Science aplicada, desarrollando soluciones que conecten datos, tecnología y conocimiento del negocio.
 
 ---
 
-### <img src="https://assets.camilorh.com/misc/Python.png" alt="Python Logo" style="width:30px; height:30px"> Python  
-**Universidad Mayor | Ciencia de Datos**
+# Actualmente
 
-- [Bases de Datos](https://github.com/ElK1000o/Bases-de-Datos)  
-  Integración de Python y SQL para consulta, manejo y análisis de datos.
+Actualmente estoy trabajando y aprendiendo en áreas como:
 
-- [Taller de Ciencia de Datos II](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-II)  
-  Proyecto académico de análisis de datos con énfasis en investigación y elaboración de informes en LaTeX.
-
-- [Taller de Ciencia de Datos I](https://github.com/ElK1000o/Taller-Ciencia-de-Datos-I)  
-  Análisis exploratorio de datos e introducción a la documentación técnica en LaTeX.
-
-- [Programación II](https://github.com/ElK1000o/Programacion-II)  
-  Trabajo con DataFrames, notebooks y librerías para análisis y manipulación de datos.
-
-- [Programación I](https://github.com/ElK1000o/Programacion-I)  
-  Proyectos y ejercicios introductorios a la programación en Python.
-
-**Proyectos personales**
-
-- [Web Scraping](https://github.com/ElK1000o/WebScraping)  
-  Proyecto autónomo de extracción de datos desde sitios web utilizando Python, orientado a la obtención y estructuración de información para análisis posterior.
+- Automatización de procesos empresariales.
+- Dashboards y visualización de información.
+- Compras, inventarios y análisis financiero-operacional.
+- Arquitecturas cloud utilizando AWS y Cloudflare.
+- Desarrollo de herramientas con Python.
+- Investigación aplicada en DFT + Machine Learning para materiales energéticos.
 
 ---
 
-### <img src="https://assets.camilorh.com/misc/R.png" alt="R Logo" style="width:30px; height:30px"> R  
-**Universidad Alberto Hurtado | Sociología**
+# Áreas de interés
 
-- [Análisis de Datos Estadísticos en R](https://github.com/ElK1000o/CursoR-Completo)  
-  Curso introductorio al uso de R para análisis estadístico aplicado.
+Me gusta trabajar en proyectos relacionados con:
 
-- [Guía Estadística](https://github.com/ElK1000o/Guia-4-Estadistica)  
-  Material de apoyo para análisis estadístico y comprensión de métodos cuantitativos en R.
+- Ciencia de Datos
+- Automatización
+- Ingeniería de Datos
+- Visualización y Business Intelligence
+- Optimización de procesos
+- Cloud Computing
+- Investigación aplicada
 
 ---
 
-## Contacto y perfiles
+# Proyectos destacados
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/camiloriquelmehorta" title="Camilo Riquelme | LinkedIn">
-    <img src="https://assets.camilorh.com/misc/LinkedInColor.png" alt="LinkedIn Logo" style="width:24px; height:24px;">
-    <span>LinkedIn</span>
-  </a>
-</div>
+Estos son algunos de los proyectos que mejor representan mi forma de trabajar.
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://ds.camilorh.com/" title="Portfolio profesional">
-    <img src="https://assets.camilorh.com/misc/crh-black-logo.png" alt="Portfolio" style="width:30px; height:30px;">
-    <span>Portfolio</span>
-  </a>
-</div>
+## 🌐 Portfolio Profesional
+
+Sitio web desarrollado desde cero para presentar mi trayectoria, proyectos e investigación.
+
+**Tecnologías**
+
+- HTML
+- CSS
+- JavaScript
+- Vercel
+- Cloudflare
+- R2
+- Resend
+
+🔗 https://ds.camilorh.com
+
+---
+
+## 🕷️ Web Scraping Toolkit
+
+Herramientas desarrolladas en Python para automatizar la extracción y estructuración de información desde distintas fuentes web.
+
+El proyecto incorpora un menú interactivo, organización modular del código y distintos flujos de obtención de datos orientados a análisis posterior.
+
+🔗 https://github.com/ElK1000o/WebScraping
+
+---
+
+## 📊 Repositorios Académicos
+
+Además de proyectos personales, este perfil reúne parte del trabajo desarrollado durante mi formación en Ciencia de Datos y Sociología.
+
+### Python
+
+**Universidad Mayor**
+
+- Bases de Datos
+- Taller de Ciencia de Datos I
+- Taller de Ciencia de Datos II
+- Programación I
+- Programación II
+
+### R
+
+**Universidad Alberto Hurtado**
+
+- Curso de Análisis Estadístico en R
+- Guías y material de apoyo para investigación cuantitativa
+
+---
+
+# Tecnologías
+
+## Lenguajes
+
+- Python
+- SQL
+- R
+- JavaScript
+- HTML
+- CSS
+
+## Datos y Analítica
+
+- Pandas
+- NumPy
+- Matplotlib
+- SciPy
+- Scikit-learn
+- Power BI
+- AWS QuickSight
+- Excel
+
+## Cloud y Desarrollo
+
+- AWS S3, AppFlow, Lambda, Athena, QuickSight
+- Cloudflare Workers, R2, D1
+- Vercel
+- Git
+- GitHub
+
+## Sistemas Empresariales
+
+- SAP MM
+- Defontana
+- Power Automate
+
+## Documentación
+
+- LaTeX
+- Markdown
+
+---
+
+# Filosofía de trabajo
+
+Me interesa desarrollar soluciones que permanezcan útiles en el tiempo.
+
+Antes de automatizar un proceso intento comprender cómo funciona el sistema completo, identificar dependencias y estructurar correctamente la información.
+
+Creo que los datos generan valor cuando ayudan a reducir complejidad, mejorar la trazabilidad y facilitar mejores decisiones.
+
+---
+
+# Contacto
+
+🌐 **Portfolio**
+
+https://ds.camilorh.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/camiloriquelmehorta
