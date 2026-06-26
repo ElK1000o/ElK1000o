@@ -6,7 +6,7 @@ Me interesa comprender cómo funcionan los sistemas antes de analizarlos o autom
 
 A lo largo de mi experiencia he participado en proyectos vinculados a **calidad, sostenibilidad, compras, inventarios, análisis financiero-operacional, automatización y visualización de datos**, utilizando herramientas como Python, R, SQL, AWS, QuickSight, Power BI, SAP MM, Excel y Power Automate.
 
-Mi objetivo es seguir creciendo como profesional en Data Science aplicada, desarrollando soluciones que conecten datos, tecnología y conocimiento del negocio.
+Me interesa desarrollar una carrera donde la ciencia de datos, la automatización y el conocimiento del negocio se complementen para resolver problemas reales.
 
 ---
 
